@@ -1,7 +1,8 @@
 # AsyncTaskLesson_2
-Start аndroid: Урок 86. AsyncTask. Знакомство, несложный пример (программирование под android)
 
-https://www.youtube.com/watch?v=ks4lPf9RAPY&amp;list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&amp;index=88
+Start аndroid: Урок 87. AsyncTask. Параметры. Промежуточные результаты
+
+https://www.youtube.com/watch?v=xxhHEN3oXso&list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&index=89
 
 При описании класса-наследника AsyncTask мы в угловых скобках указываем три типа данных:
 
